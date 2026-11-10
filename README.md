@@ -16,13 +16,14 @@
   <a href="mailto:3211840032@qq.com">Email</a>
 </p>
 
+<p><strong>语言 / Language</strong> · 点击下方面板切换 · Click a panel below to switch</p>
+
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><strong>🇨🇳 中文</strong></summary>
 
 ## 关于我
 
@@ -30,86 +31,23 @@
 
 我从课堂之外开始学习真实的软件工程，通过竞赛、黑客松、源码解读和产品实践不断构建自己的能力。我的长期愿景是为智能构建更好的栖居世界。
 
-</td>
-<td width="50%" valign="top">
-
-## About Me
-
-I am an AI-focused developer working on AI Agents, LLM applications, and AI-native systems. I study Artificial Intelligence at Xinyang University and expect to graduate in 2028.
-
-I learn by building: through competitions, hackathons, source-level study, and real product development. My long-term vision is to build a better inhabitable world for intelligence.
-
-</td>
-</tr>
-</table>
-
-## 当前构建 · Currently Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 当前构建
 
 ### 云梦引擎 · CloudDream Engine
 
-我参与 AI 原生企业级 ERP 系统的开发，负责核心智能体执行链路优化，关注复杂环境中的工具选择、调用失败、纠偏与恢复。
+我参与 AI 原生企业级 ERP 系统的开发，担任高级开发，负责核心智能体执行链路优化，关注复杂环境中的工具选择、调用失败、纠偏与恢复。
 
-</td>
-<td width="50%" valign="top">
-
-### AI-native Enterprise Systems
-
-I work on an AI-native enterprise ERP system, focusing on the reliability of agent execution pipelines, tool selection, failure recovery, and multi-step workflows.
-
-</td>
-</tr>
-</table>
-
-## 核心项目 · Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 核心项目
 
 ### [SparkLearn](https://github.com/ATCBK/SparkLearn)
 
-**个性化学习多智能体平台**
-
-围绕“画像构建 → 路径规划 → 资源生成 → 学习互动 → 练习评测 → 反馈更新”构建学习闭环，实践 RAG、长期记忆、多智能体协同、多模态交互和 Tutor 工作流。
-
-</td>
-<td width="50%" valign="top">
-
-### [SparkLearn](https://github.com/ATCBK/SparkLearn)
-
-**Personalized Multi-agent Learning Platform**
-
-A learning system built around the loop of profiling, planning, generation, interaction, evaluation, and feedback. It explores RAG, long-term memory, multi-agent collaboration, multimodal interaction, and Tutor workflows.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+个性化学习多智能体平台，围绕“画像构建 → 路径规划 → 资源生成 → 学习互动 → 练习评测 → 反馈更新”构建学习闭环，实践 RAG、长期记忆、多智能体协同、多模态交互和 Tutor 工作流。
 
 ### [Oh-My-ClaudeCode](https://github.com/ATCBK/Oh-My-ClaudeCode)
-
-**从源码学习到从零重建 Agent Harness**
 
 解读 Claude Code 的实现思路，并从零手写类 Claude Code 的 Agent Harness，覆盖 Agent Loop、工具注册、权限与 Hooks、Memory、上下文压缩、子代理、Skill、后台任务和 Cron 调度。
 
-</td>
-<td width="50%" valign="top">
-
-### [Oh-My-ClaudeCode](https://github.com/ATCBK/Oh-My-ClaudeCode)
-
-**From Source Study to a Rebuilt Agent Harness**
-
-A from-scratch Claude Code-like Agent Harness covering the agent loop, tool registry, permissions and hooks, memory, context compaction, subagents, skills, background tasks, and cron scheduling.
-
-</td>
-</tr>
-</table>
-
-## 源码学习与重建 · Source Study & Rebuilding
+## 源码学习与重建
 
 这些项目记录了我对 Agent 系统、上下文工程、事件驱动架构和多智能体运行时的持续学习：
 
@@ -119,42 +57,117 @@ A from-scratch Claude Code-like Agent Harness covering the agent loop, tool regi
 - [hello-agents-study](https://github.com/ATCBK/hello-agents-study) — 智能体原理与实践学习
 - [RelayTown](https://github.com/ATCBK/RelayTown) — 多智能体赛博小镇项目学习
 - [Nanobot_new](https://github.com/ATCBK/Nanobot_new) — Nanobot 的功能增强与源码实践
+- [Langchian](https://github.com/ATCBK/Langchian) · [SuanFa](https://github.com/ATCBK/SuanFa) · [Harness-Kit](https://github.com/ATCBK/Harness-Kit)
 
-<details>
-<summary>更多学习项目 · More Learning Projects</summary>
-
-- [Langchian](https://github.com/ATCBK/Langchian)
-- [SuanFa](https://github.com/ATCBK/SuanFa)
-- [D](https://github.com/ATCBK/D)
-- [Harness-Kit](https://github.com/ATCBK/Harness-Kit)
-- [Hello_Agents](https://github.com/ATCBK/Hello_Agents)
-
-</details>
-
-## 产品实验与日常作品 · Product Experiments & Side Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 产品实验与日常作品
 
 - [LiveAgent](https://github.com/ATCBK/LiveAgent) — 本地优先的跨平台 AI Agent 桌面端
 - [PaperFlow](https://github.com/ATCBK/PaperFlow) — 自动化计算机科学研究与论文生成流水线
 - [GenAI](https://github.com/ATCBK/GenAI) — 下一代 UI 设计与素材工作流
 - [KnowMe](https://github.com/ATCBK/KnowMe) — 了解完整上下文的个人博客与 AI Agent
-
-</td>
-<td width="50%" valign="top">
-
 - [CloudTime](https://github.com/ATCBK/CloudTime) — 时间管理工具
 - [SpotPlanningSystem](https://github.com/ATCBK/SpotPlanningSystem) — 基于最短路径思路的景点推荐系统
 - [SunMe](https://github.com/ATCBK/SunMe) — 根据天气展示治愈太阳的浏览器插件
 - [MoodPet](https://github.com/ATCBK/MoodPet) — 情绪与陪伴方向的实验项目
 
-</td>
-</tr>
-</table>
+## 技术栈
 
-## 技术栈 · Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,flask,django,nextjs,vue,react,mysql,sqlite,docker,linux,git" alt="技术栈" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-6B46C1?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-2563EB?style=flat-square" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/MCP-B45309?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/LangChain-1D4ED8?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-047857?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/SSE%20%2F%20WebSocket-334155?style=flat-square" alt="SSE and WebSocket" />
+  <img src="https://img.shields.io/badge/CI%20%2F%20CD-0F172A?style=flat-square" alt="CI/CD" />
+</p>
+
+## 竞赛与经历
+
+- 中国软件杯大学生软件程序设计大赛全国一等奖
+- AI 开发者大赛全国亚军
+- Agent Skills 开发者大赛全国银奖
+- 参与《AI 智能体核心技术剖析》编写
+- 科大讯飞 AI 相关项目实习经历
+
+## GitHub 数据
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ATCBK&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="ATCB GitHub 数据" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATCBK&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="ATCB 常用语言" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ATCBK&hide_border=true&theme=transparent" alt="ATCB GitHub 连续贡献" />
+</p>
+
+## 联系我
+
+<p align="center">
+  <a href="mailto:3211840032@qq.com">3211840032@qq.com</a> ·
+  <a href="https://ycne39nyvm0t.feishu.cn/wiki/ZAGHw86PViMZFckDFBBcxzUDnae">个人作品集</a> ·
+  <a href="https://github.com/ATCBK">GitHub</a>
+</p>
+
+<p align="center"><em>保持好奇，从源码学习，以创造为目的。</em></p>
+
+</details>
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+## About Me
+
+I am an AI-focused developer working on AI Agents, LLM applications, and AI-native systems. I study Artificial Intelligence at Xinyang University and expect to graduate in 2028.
+
+I learn by building: through competitions, hackathons, source-level study, and real product development. My long-term vision is to build a better inhabitable world for intelligence.
+
+## Currently Building
+
+### CloudDream Engine
+
+I work as a senior developer on an AI-native enterprise ERP system, focusing on the reliability of agent execution pipelines, tool selection, failure recovery, and multi-step workflows in complex environments.
+
+## Selected Work
+
+### [SparkLearn](https://github.com/ATCBK/SparkLearn)
+
+A personalized multi-agent learning platform built around the loop of profiling, planning, generation, interaction, evaluation, and feedback. It explores RAG, long-term memory, multi-agent collaboration, multimodal interaction, and Tutor workflows.
+
+### [Oh-My-ClaudeCode](https://github.com/ATCBK/Oh-My-ClaudeCode)
+
+I studied the implementation ideas behind Claude Code and rebuilt a Claude Code-like Agent Harness from scratch. It covers the agent loop, tool registry, permissions and hooks, memory, context compaction, subagents, skills, background tasks, and cron scheduling.
+
+## Source Study & Rebuilding
+
+These repositories document my ongoing study of Agent systems, context engineering, event-driven architecture, and multi-agent runtimes:
+
+- [learn-claude-code](https://github.com/ATCBK/learn-claude-code) — rebuilding a Claude Code-style Agent Harness from zero to one
+- [learn-dsh-superagent](https://github.com/ATCBK/learn-dsh-superagent) — studying event-driven execution, async channels, authorization, persistence, and watchdogs
+- [Learn-Agent-Harness](https://github.com/ATCBK/Learn-Agent-Harness) — Agent Harness experiments and system breakdowns
+- [hello-agents-study](https://github.com/ATCBK/hello-agents-study) — learning Agent principles and practical implementation
+- [RelayTown](https://github.com/ATCBK/RelayTown) — learning through a multi-agent cyber-town project
+- [Nanobot_new](https://github.com/ATCBK/Nanobot_new) — extending Nanobot through source-level practice
+- [Langchian](https://github.com/ATCBK/Langchian) · [SuanFa](https://github.com/ATCBK/SuanFa) · [Harness-Kit](https://github.com/ATCBK/Harness-Kit)
+
+## Product Experiments & Side Projects
+
+- [LiveAgent](https://github.com/ATCBK/LiveAgent) — a local-first cross-platform AI Agent desktop client
+- [PaperFlow](https://github.com/ATCBK/PaperFlow) — an automated computer-science research and paper-generation pipeline
+- [GenAI](https://github.com/ATCBK/GenAI) — a next-generation UI design and asset workflow
+- [KnowMe](https://github.com/ATCBK/KnowMe) — a personal blog and AI Agent that understands full context
+- [CloudTime](https://github.com/ATCBK/CloudTime) — a time-management tool
+- [SpotPlanningSystem](https://github.com/ATCBK/SpotPlanningSystem) — a shortest-path-based travel recommendation system
+- [SunMe](https://github.com/ATCBK/SunMe) — a weather-aware healing-sun browser extension
+- [MoodPet](https://github.com/ATCBK/MoodPet) — an experiment around mood and companionship
+
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,flask,django,nextjs,vue,react,mysql,sqlite,docker,linux,git" alt="Tech stack" />
@@ -172,20 +185,7 @@ A from-scratch Claude Code-like Agent Harness covering the agent loop, tool regi
   <img src="https://img.shields.io/badge/CI%20%2F%20CD-0F172A?style=flat-square" alt="CI/CD" />
 </p>
 
-## 竞赛与经历 · Achievements & Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- 中国软件杯大学生软件程序设计大赛全国一等奖
-- AI 开发者大赛全国亚军
-- Agent Skills 开发者大赛全国银奖
-- 参与《AI 智能体核心技术剖析》编写
-- 科大讯飞 AI 相关项目实习经历
-
-</td>
-<td width="50%" valign="top">
+## Achievements & Experience
 
 - National First Prize, China Software Cup
 - National Runner-up, AI Developer Competition
@@ -193,11 +193,7 @@ A from-scratch Claude Code-like Agent Harness covering the agent loop, tool regi
 - Contributor to *Analysis of Core AI Agent Technologies*
 - AI engineering internship experience at iFlytek
 
-</td>
-</tr>
-</table>
-
-## GitHub 数据 · GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ATCBK&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="ATCB GitHub stats" />
@@ -208,15 +204,14 @@ A from-scratch Claude Code-like Agent Harness covering the agent loop, tool regi
   <img src="https://streak-stats.demolab.com?user=ATCBK&hide_border=true&theme=transparent" alt="ATCB GitHub streak" />
 </p>
 
-## 联系我 · Contact
+## Contact
 
 <p align="center">
   <a href="mailto:3211840032@qq.com">3211840032@qq.com</a> ·
-  <a href="https://ycne39nyvm0t.feishu.cn/wiki/ZAGHw86PViMZFckDFBBcxzUDnae">Portfolio / 个人作品集</a> ·
+  <a href="https://ycne39nyvm0t.feishu.cn/wiki/ZAGHw86PViMZFckDFBBcxzUDnae">Portfolio</a> ·
   <a href="https://github.com/ATCBK">GitHub</a>
 </p>
 
-<p align="center">
-  <em>Build with curiosity. Learn from the source. Create with purpose.</em><br />
-  <em>保持好奇，从源码学习，以创造为目的。</em>
-</p>
+<p align="center"><em>Build with curiosity. Learn from the source. Create with purpose.</em></p>
+
+</details>
