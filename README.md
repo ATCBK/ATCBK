@@ -72,21 +72,7 @@
 
 ## 技术栈
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,flask,django,nextjs,vue,react,mysql,sqlite,docker,linux,git" alt="技术栈" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-6B46C1?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/Tool%20Calling-2563EB?style=flat-square" alt="Tool Calling" />
-  <img src="https://img.shields.io/badge/MCP-B45309?style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/LangChain-1D4ED8?style=flat-square" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-047857?style=flat-square" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/SSE%20%2F%20WebSocket-334155?style=flat-square" alt="SSE and WebSocket" />
-  <img src="https://img.shields.io/badge/CI%20%2F%20CD-0F172A?style=flat-square" alt="CI/CD" />
-</p>
+<p align="center">`n  <img src="./assets/tech-stack.svg" alt="AI and engineering stack" />`n</p>
 
 ## 竞赛与经历
 
@@ -98,14 +84,7 @@
 
 ## GitHub 数据
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ATCBK&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="ATCB GitHub 数据" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATCBK&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="ATCB 常用语言" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ATCBK&hide_border=true&theme=transparent" alt="ATCB GitHub 连续贡献" />
-</p>
+<p align="center">`n  <img src="./assets/github-stats.svg" alt="ATCB GitHub snapshot" />`n</p>
 
 ## 联系我
 
@@ -169,21 +148,7 @@ These repositories document my ongoing study of Agent systems, context engineeri
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,flask,django,nextjs,vue,react,mysql,sqlite,docker,linux,git" alt="Tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-6B46C1?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/Tool%20Calling-2563EB?style=flat-square" alt="Tool Calling" />
-  <img src="https://img.shields.io/badge/MCP-B45309?style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/LangChain-1D4ED8?style=flat-square" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-047857?style=flat-square" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/SSE%20%2F%20WebSocket-334155?style=flat-square" alt="SSE and WebSocket" />
-  <img src="https://img.shields.io/badge/CI%20%2F%20CD-0F172A?style=flat-square" alt="CI/CD" />
-</p>
+<p align="center">`n  <img src="./assets/tech-stack.svg" alt="AI and engineering stack" />`n</p>
 
 ## Achievements & Experience
 
@@ -195,14 +160,7 @@ These repositories document my ongoing study of Agent systems, context engineeri
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ATCBK&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="ATCB GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATCBK&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="ATCB top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ATCBK&hide_border=true&theme=transparent" alt="ATCB GitHub streak" />
-</p>
+<p align="center">`n  <img src="./assets/github-stats.svg" alt="ATCB GitHub snapshot" />`n</p>
 
 ## Contact
 
@@ -215,3 +173,4 @@ These repositories document my ongoing study of Agent systems, context engineeri
 <p align="center"><em>Build with curiosity. Learn from the source. Create with purpose.</em></p>
 
 </details>
+
