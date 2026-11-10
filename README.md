@@ -98,7 +98,7 @@
   <a href="https://github.com/ATCBK">GitHub</a>
 </p>
 
-<p align="center"><em>保持好奇，从源码学习，以创造为目的。</em></p>
+<p align="center"><em>我希望成为一名兼具技术深度和产品意识的开发者，做出真正解决用户问题、被更多人持续使用的产品。</em></p>
 
 </details>
 
@@ -178,9 +178,10 @@ These repositories document my ongoing study of Agent systems, context engineeri
   <a href="https://github.com/ATCBK">GitHub</a>
 </p>
 
-<p align="center"><em>Build with curiosity. Learn from the source. Create with purpose.</em></p>
+<p align="center"><em>I aspire to become a developer with both technical depth and product sense, building products that truly solve user problems and continue to be used by more people.</em></p>
 
 </details>
+
 
 
 
