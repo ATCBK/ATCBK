@@ -72,7 +72,9 @@
 
 ## 技术栈
 
-<p align="center">`n  <img src="./assets/tech-stack.svg" alt="AI and engineering stack" />`n</p>
+<p align="center">
+  <img src="./assets/tech-stack.svg" alt="AI and engineering stack" />
+</p>
 
 ## 竞赛与经历
 
@@ -84,7 +86,9 @@
 
 ## GitHub 数据
 
-<p align="center">`n  <img src="./assets/github-stats.svg" alt="ATCB GitHub snapshot" />`n</p>
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="ATCB GitHub snapshot" />
+</p>
 
 ## 联系我
 
@@ -148,7 +152,9 @@ These repositories document my ongoing study of Agent systems, context engineeri
 
 ## Tech Stack
 
-<p align="center">`n  <img src="./assets/tech-stack.svg" alt="AI and engineering stack" />`n</p>
+<p align="center">
+  <img src="./assets/tech-stack.svg" alt="AI and engineering stack" />
+</p>
 
 ## Achievements & Experience
 
@@ -160,7 +166,9 @@ These repositories document my ongoing study of Agent systems, context engineeri
 
 ## GitHub Stats
 
-<p align="center">`n  <img src="./assets/github-stats.svg" alt="ATCB GitHub snapshot" />`n</p>
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="ATCB GitHub snapshot" />
+</p>
 
 ## Contact
 
@@ -173,4 +181,5 @@ These repositories document my ongoing study of Agent systems, context engineeri
 <p align="center"><em>Build with curiosity. Learn from the source. Create with purpose.</em></p>
 
 </details>
+
 
