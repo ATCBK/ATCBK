@@ -82,7 +82,7 @@
 - AI 开发者大赛全国亚军
 - Agent Skills 开发者大赛全国银奖
 - 参与《AI 智能体核心技术剖析》编写
-- 科大讯飞 AI 相关项目实习经历
+- 2025 Edu Agent 挑战赛全国第三名
 
 ## GitHub 数据
 
@@ -162,7 +162,7 @@ These repositories document my ongoing study of Agent systems, context engineeri
 - National Runner-up, AI Developer Competition
 - National Silver Award, Agent Skills Developer Competition
 - Contributor to *Analysis of Core AI Agent Technologies*
-- AI engineering internship experience at iFlytek
+- 3rd Place, 2025 Edu Agent Challenge
 
 ## GitHub Stats
 
@@ -181,5 +181,6 @@ These repositories document my ongoing study of Agent systems, context engineeri
 <p align="center"><em>Build with curiosity. Learn from the source. Create with purpose.</em></p>
 
 </details>
+
 
 
