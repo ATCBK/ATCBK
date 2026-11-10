@@ -1,34 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="title desc">
   <title id="title">ATCB technology stack</title>
-  <desc id="desc">AI Agent and software engineering technologies used by ATCB.</desc>
-  <rect x="1" y="1" width="998" height="188" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="30" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#24292f">AI &amp; Engineering Stack</text>
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
-    <rect x="30" y="52" width="112" height="30" rx="15" fill="#eaddff"/><text x="86" y="72" text-anchor="middle" fill="#6e40c9">AI Agents</text>
-    <rect x="152" y="52" width="72" height="30" rx="15" fill="#d1f7e2"/><text x="188" y="72" text-anchor="middle" fill="#116329">RAG</text>
-    <rect x="234" y="52" width="122" height="30" rx="15" fill="#ddf4ff"/><text x="295" y="72" text-anchor="middle" fill="#0969da">Tool Calling</text>
-    <rect x="366" y="52" width="70" height="30" rx="15" fill="#fff1e5"/><text x="401" y="72" text-anchor="middle" fill="#bc4c00">MCP</text>
-    <rect x="446" y="52" width="100" height="30" rx="15" fill="#e1f0ff"/><text x="496" y="72" text-anchor="middle" fill="#0550ae">LangChain</text>
-    <rect x="556" y="52" width="102" height="30" rx="15" fill="#dff6f0"/><text x="607" y="72" text-anchor="middle" fill="#116329">LangGraph</text>
-    <rect x="668" y="52" width="84" height="30" rx="15" fill="#fbefff"/><text x="710" y="72" text-anchor="middle" fill="#8250df">CrewAI</text>
-    <rect x="762" y="52" width="92" height="30" rx="15" fill="#fff8c5"/><text x="808" y="72" text-anchor="middle" fill="#7d4e00">Memory</text>
-    <rect x="864" y="52" width="106" height="30" rx="15" fill="#ffebe9"/><text x="917" y="72" text-anchor="middle" fill="#cf222e">Workflows</text>
-
-    <rect x="30" y="98" width="86" height="30" rx="15" fill="#e1f0ff"/><text x="73" y="118" text-anchor="middle" fill="#0550ae">Python</text>
-    <rect x="126" y="98" width="104" height="30" rx="15" fill="#ddf4ff"/><text x="178" y="118" text-anchor="middle" fill="#0969da">TypeScript</text>
-    <rect x="240" y="98" width="112" height="30" rx="15" fill="#fff8c5"/><text x="296" y="118" text-anchor="middle" fill="#7d4e00">FastAPI</text>
-    <rect x="362" y="98" width="84" height="30" rx="15" fill="#d1f7e2"/><text x="404" y="118" text-anchor="middle" fill="#116329">Next.js</text>
-    <rect x="456" y="98" width="74" height="30" rx="15" fill="#dff6f0"/><text x="493" y="118" text-anchor="middle" fill="#116329">Vue</text>
-    <rect x="540" y="98" width="96" height="30" rx="15" fill="#eaddff"/><text x="588" y="118" text-anchor="middle" fill="#6e40c9">MySQL</text>
-    <rect x="646" y="98" width="90" height="30" rx="15" fill="#ffebe9"/><text x="691" y="118" text-anchor="middle" fill="#cf222e">Docker</text>
-    <rect x="746" y="98" width="78" height="30" rx="15" fill="#fbefff"/><text x="785" y="118" text-anchor="middle" fill="#8250df">Linux</text>
-    <rect x="834" y="98" width="72" height="30" rx="15" fill="#fff1e5"/><text x="870" y="118" text-anchor="middle" fill="#bc4c00">Git</text>
-    <rect x="916" y="98" width="54" height="30" rx="15" fill="#ddf4ff"/><text x="943" y="118" text-anchor="middle" fill="#0969da">CI</text>
-
-    <rect x="30" y="144" width="134" height="30" rx="15" fill="#e1f0ff"/><text x="97" y="164" text-anchor="middle" fill="#0550ae">SSE / WebSocket</text>
-    <rect x="174" y="144" width="130" height="30" rx="15" fill="#d1f7e2"/><text x="239" y="164" text-anchor="middle" fill="#116329">Multi-agent</text>
-    <rect x="314" y="144" width="128" height="30" rx="15" fill="#fff8c5"/><text x="378" y="164" text-anchor="middle" fill="#7d4e00">Context Engineering</text>
-    <rect x="452" y="144" width="122" height="30" rx="15" fill="#eaddff"/><text x="513" y="164" text-anchor="middle" fill="#6e40c9">Local LLM</text>
-    <rect x="584" y="144" width="118" height="30" rx="15" fill="#ffebe9"/><text x="643" y="164" text-anchor="middle" fill="#cf222e">CI / CD</text>
+  <desc id="desc">A compact summary of ATCB's AI, backend, frontend, and engineering stack.</desc>
+  <rect x="1" y="1" width="898" height="208" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="30" y="36" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#24292f">Tech Stack · 技术栈</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    <text x="32" y="76" font-weight="700" fill="#6e40c9">AI Agent / LLM</text>
+    <text x="205" y="76" fill="#57606a">RAG · Tool Calling · Memory · Workflow · MCP · LangChain · LangGraph</text>
+    <text x="32" y="111" font-weight="700" fill="#0969da">Backend</text>
+    <text x="205" y="111" fill="#57606a">Python · FastAPI · Flask / Django · REST · SSE / WebSocket · MySQL</text>
+    <text x="32" y="146" font-weight="700" fill="#1a7f37">Frontend</text>
+    <text x="205" y="146" fill="#57606a">TypeScript · JavaScript · Next.js · Vue</text>
+    <text x="32" y="181" font-weight="700" fill="#bc4c00">Engineering</text>
+    <text x="205" y="181" fill="#57606a">Git · Docker · Linux · CI/CD · Local LLM Deployment</text>
   </g>
 </svg>
